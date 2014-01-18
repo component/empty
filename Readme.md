@@ -13,7 +13,7 @@
 
 ### `empty(x)`
 
-Empties `x` where, `x` is either an HTMLElement, Array or Array-like object.
+Empties `x`, where `x` is either an HTMLElement, Array or Array-like object.
 
 ## License
 
