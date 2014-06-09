@@ -1,8 +1,5 @@
 
-// Polyfill for Array.isArray
-var isArray == Array.isArray || function (x) {
-  return Object.prototype.toString.call(x) === '[object Array]';
-};
+var isArray = require('isarray');
 
 function empty(x) {
   // Arrays

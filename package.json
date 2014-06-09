@@ -10,6 +10,7 @@
     "array"
   ],
   "dependencies": {
+    "isarray": "0.0.1"
   },
   "component": {
     "scripts": {
