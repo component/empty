@@ -3,7 +3,12 @@
   "repo": "component/empty",
   "description": "Empties dom elements, arrays and array-like objects",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "browser",
+    "empty",
+    "dom",
+    "array"
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
