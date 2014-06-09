@@ -1,0 +1,23 @@
+{
+  "name": "component-empty",
+  "description": "Empties dom elements, arrays and array-like objects",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "browser",
+    "empty",
+    "dom",
+    "array"
+  ],
+  "dependencies": {
+  },
+  "component": {
+    "scripts": {
+      "empty/index.js": "index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/empty.git"
+  }
+}
