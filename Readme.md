@@ -5,6 +5,10 @@
 
 ## Installation
 
+  Install with npm for Node.js/browserify:
+
+    $ npm install component-empty
+
   Install with [component(1)](http://component.io):
 
     $ component install component/empty
